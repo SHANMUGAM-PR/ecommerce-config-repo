@@ -34,6 +34,6 @@ logging:
     com.example.userservice: DEBUG
 
 app:
-  welcome-message: "Welcome"
+  welcome-message: "Welcome hi"
   feature:
     registration-enabled: true

@@ -32,3 +32,8 @@ logging:
   level:
     root: INFO
     com.example.userservice: DEBUG
+
+app:
+  welcome-message: "Welcome to User Service (DEV)"
+  feature:
+    registration-enabled: true
